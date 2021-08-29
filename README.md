@@ -6,5 +6,5 @@
 </div>
 
 <div align = "center">
-<img src = ".\image\Acknowledgements2.png"  width=80%>
+<img src = ".\image\Acknowledgements2.png"  width=100%>
 </div>

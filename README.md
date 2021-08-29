@@ -1,5 +1,5 @@
 # 致谢 Acknowledgements
-## 我的博士学位论文致谢 The Acknowledgements of My Dissertation for Doctoral Degree
+### 我的博士学位论文致谢 The Acknowledgements of My Dissertation for Doctoral Degree
 
 <div align = "center">
 <img src = ".\image\Acknowledgements1.png"  width=100%>
